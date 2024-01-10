@@ -8,5 +8,5 @@ Notice that there is a syntax of sorts to writing within this ReadMe.  We are us
 ## Software
 
 Our class will be using R for computation.  
-For Window: [https://cran.r-project.org/bin/windows/base/]  
+For Windows: [https://cran.r-project.org/bin/windows/base/]  
 For Mac: [https://cran.r-project.org/bin/macosx/] 
