@@ -4,3 +4,5 @@ This repository is meant to be a gentle introduction to github.  We will work th
 This ReadMe should serve as the elevator pitch and user manual for your repository.  Any other software packages or installations that are necessary to run the included code should be listed here.  Data sets should be mentioned and cross-referrenced here.  
 
 ## Software
+
+Our class will be using R for computation.  [https://cran.r-project.org/bin/windows/base/]
