@@ -10,3 +10,5 @@ Notice that there is a syntax of sorts to writing within this ReadMe.  We are us
 Our class will be using R for computation.  
 For Windows: [https://cran.r-project.org/bin/windows/base/]  
 For Mac: [https://cran.r-project.org/bin/macosx/] 
+
+Though we will be working in R in this course, realize that github is capable of maintaining a repository with multiple coding languages simultaneously.  To illustrate this, I have also included a matlab .mat file.  Howevever, we should not (in general)\footnote{d} expect these files to interact effectively with one another.  
