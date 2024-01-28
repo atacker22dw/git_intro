@@ -13,5 +13,9 @@ For Mac: [https://cran.r-project.org/bin/macosx/]
 
 Though we will be working in R in this course, realize that github is capable of maintaining a repository with multiple coding languages simultaneously.  To illustrate this, I have also included a matlab .m file.  Howevever, we should not (in general)[^1] expect these files to interact effectively with one another.  
 
+## Branches
+
+There are three branches currently in this repository.  The `main` is the primary devolopmental pathway.  `Student_correction` 
+
 
 [^1]: It is possible to use R libraries to read in .mat files and vice versa.
