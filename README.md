@@ -11,4 +11,7 @@ Our class will be using R for computation.
 For Windows: [https://cran.r-project.org/bin/windows/base/]  
 For Mac: [https://cran.r-project.org/bin/macosx/] 
 
-Though we will be working in R in this course, realize that github is capable of maintaining a repository with multiple coding languages simultaneously.  To illustrate this, I have also included a matlab .m file.  Howevever, we should not (in general)[^It is possible to use R libraries to read in .mat files and vice versa.] expect these files to interact effectively with one another.  
+Though we will be working in R in this course, realize that github is capable of maintaining a repository with multiple coding languages simultaneously.  To illustrate this, I have also included a matlab .m file.  Howevever, we should not (in general)[^1] expect these files to interact effectively with one another.  
+
+
+[^1]: It is possible to use R libraries to read in .mat files and vice versa.
