@@ -22,4 +22,4 @@ There are three branches currently in this repository.  The `main` is the primar
 
 ## Forking 
 
-When forking, make sure to fork all available branches.  This will allow you to change files on non-protected branches and push them to the main.  
+When forking, make sure to fork all available branches.  This will allow you to change files on non-protected branches and push them to the `main`.  
