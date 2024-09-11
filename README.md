@@ -21,4 +21,8 @@ There are three branches currently in this repository.  The `main` is the primar
 
 When forking, make sure to fork all available branches.  This will allow you to change files on non-protected branches and push them to the `main`.  
 
+### Patch Branch
+
+This branch stores the updated version of the `Hello_World_deviation.r` file.  When students have completed the file, we can merge the pull request from this branch with the main.  
+
 [^1]: It is possible to use R libraries to read in .mat files and vice versa.
