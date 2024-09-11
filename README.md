@@ -21,4 +21,8 @@ There are three branches currently in this repository.  The `main` is the primar
 
 When forking, make sure to fork all available branches.  This will allow you to change files on non-protected branches and push them to the `main`.  
 
+## Demonstrating a Merge Conflict
+
+This branch will now be one commit behind the main.  Linear editing helps mitigate conflicts.  
+
 [^1]: It is possible to use R libraries to read in .mat files and vice versa.
