@@ -23,6 +23,6 @@ When forking, make sure to fork all available branches.  This will allow you to 
 
 ## Demonstrating a Merge Conflict
 
-This branch will now be one commit behind the main.  Linear editing helps mitigate conflicts.  
+This branch will now be one commit ahead of the main.  Linear editing helps mitigate conflicts.  
 
 [^1]: It is possible to use R libraries to read in .mat files and vice versa.
