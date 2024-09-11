@@ -8,7 +8,6 @@ i=1
 while(i < (var+1)){
   print("Hello World")
   i=i+1
-  #add in a new line
-  #demonstrate another pull request for update
+  #pull request to update the main
 }
   
