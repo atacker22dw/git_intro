@@ -21,4 +21,8 @@ There are three branches currently in this repository.  The `main` is the primar
 
 When forking, make sure to fork all available branches.  This will allow you to change files on non-protected branches and push them to the `main`.  
 
+## Merge Conflicts
+
+This branch is meant to illustrate merge conflicts and how so-called linear editing can help avoid such conflicts.  Fork this branch, edit it in some way.  For sake of argument, just remove the following parethetical (Andy is so awesome).  After you have forked this branch, I will commit to an edit as well.  When you create a pull request, I will not be able to directly merge your edit to this branch because it will be both one commit ahead and behind the current branch.  Github does not know how to (automatically) merge branches in this case.  
+
 [^1]: It is possible to use R libraries to read in .mat files and vice versa.
