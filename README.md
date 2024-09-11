@@ -19,3 +19,7 @@ There are three branches currently in this repository.  The `main` is the primar
 
 
 [^1]: It is possible to use R libraries to read in .mat files and vice versa.
+
+## Forking 
+
+When forking, make sure to fork all available branches.  This will allow you to change files on non-protected branches and push them to the main.  
