@@ -5,4 +5,7 @@ y <- 1
 
 while(y < x){
   print("y is still less than x")
+  print(y)
+  y = y + 1
+  
 }
